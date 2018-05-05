@@ -1,3 +1,5 @@
 Creating a file from the pulled branch. The branch contains exactly the same structure as in the master. 
 While I am creating this from the branched out directory, what I know is the files in the master branch won't be affected.
 I will look into how the two branches work together, emulating 2 people working on the same project.
+
+This paragraph is now being typed in after the merge from patch-1 took place.
